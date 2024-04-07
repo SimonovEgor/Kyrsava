@@ -1,0 +1,86 @@
+@{
+    Layout = null;
+}
+<!-- https://www.flaticon.com/ru/animated-icons -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="../Arts/Icon.jpg">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Эйгакё</title>
+    <link rel="stylesheet" href="~/css/Rules.css">
+</head>
+<body>
+    <header>
+        <h1>Эйгакё</h1>
+        <h3>えいがきょう</h3>
+    </header>
+
+    <nav class="navbar">
+        <ul>
+
+            <a href="@Url.Action("Главная")">
+            <li class="button"> <span class="colored-letter">え</span>Эйгакё </li></a>
+
+            <div class="dropdown">
+                <a href="@Url.Action("Rules")">
+            <li class="button"><span class="colored-letter">い</span>Правила<span>&#9660;</span></li></a>
+            <div class="dropdown-content">
+                <h3>База данных</h3>
+                <a class="button" href="@Url.Action("Anime")"> <img width="25" height="25" src="../Arts/TV.png" alt="Аниме"> Аниме</a>
+                <h3>Сообщество</h3>
+                <a class="button" href="@Url.Action("Collection")"> <img width="25" height="25" src="../Arts/Collection.png" alt="Коллекции"> Коллекции</a>
+                <a class="button" href="@Url.Action("Пользователи")"> <img width="25" height="25" src="../Arts/Users.png" alt="Пользователи">Пользователи</a>
+                <h3>Информация</h3>
+                <a class="button" href="@Url.Action("AboutUS")"> <img width="25" height="25" src="../Arts/Info.png" alt="О сайте"> О сайте</a>
+                <a class="button" href="@Url.Action("Seti")"> <img width="25" height="25" src="../Arts/seti.png" alt="Соц сети">Соц Сети</a>
+                <a class="button" href="@Url.Action("Соглашение")"> <img width="25" height="25" src="../Arts/Agre.png" alt="Соглашение">Соглашение</a>
+                <a class="button" href="@Url.Action("Право")"> <img width="25" height="25" src="../Arts/Copy.png" alt="Правообладателям">Правообладателям</a>
+            </div>
+            </div>
+            <input class="button" type="text" placeholder=" が Search... " name="search">
+            <a href="@Url.Action("Главная")">
+            <li class="button"><span class="colored-letter">き</span>Почта </li></a>
+            <a href="@Url.Action("Авторизация")">
+            <li class="button"><span class="colored-letter">ょ</span>Войти </li></a>
+            <div class="dropdown">
+                <a href="@Url.Action("Главная")">
+            <li class="button"><span class="colored-letter">う</span>Профиль <span>&#9660;</span></li></a>
+            <div class="dropdown-content">
+                <h3>Аккаунт</h3>
+                <a class="button" href="Главная.html"> <img width="25" height="25" src="../Arts/SpiSok.png" alt="Список ваших аниме">Список аниме</a>
+                <a class="button" href="Главная.html"> <img width="25" height="25" src="../Arts/Settings.png" alt="Настройки">Настройки</a>
+                <h3>Сайт</h3>
+                <a class="button" href="@Url.Action("Rules")"> <img width="25" height="25" src="../Arts/Rule.png" alt="Правила">Правила сайта</a>
+                <a class="button" href="@Url.Action("FAQ")"> <img width="25" height="25" src="../Arts/FAQ.png" alt="Частые вопросы">FAQ</a>
+                <a class="button" href="@Url.Action("Главная")"> <img width="25" height="25" src="../Arts/Exit.png" alt="Выйти">Выход</a>
+            </div>
+            </div>
+
+        </ul>
+    </nav>
+
+    <main>
+        <section class="mainText">
+            <h2>Правила сайта</h2>
+            <h3>На данной странице отображены правила сайта</h3>
+            <p>1. Будьте вежливы и уважайте собеседников. Переходам на личности, грубости, хамству, оскорблениям и угрозам здесь нет места. Ни в каком виде.</p>
+            <p>2. Язык общения на сайте русский. Пишите грамотно. Мы любим русский язык и не будем его коверкать.</p>
+            <p>3. Здесь не матерятся. Нигде и ни в каком виде.</p>
+            <p>4. Флуд и политота не поощряются, особенно в топиках обсуждения аниме, манги и персонажей.</p>
+            <p>5. Законы РФ нарушаться не должны. Здесь запрещено всё, что запрещено законами РФ.</p>
+            <p>6. Отдельно запрещён постинг всего того, что может потенциально привести к бану сайта роскомнадзором. Постинг картинок под спойлером с предупреждением о 18+ так же запрещён.</p>
+            <p>7. При раскрытии деталей сюжета, оборачивайте текст тегом спойлера спойлер делается так</p> <details><summary>Спойлер</summary><p>Сюжет</p></details>  
+            <p>8. Разговоры, не касающиеся конкретного аниме, манги, героя и пр., перемещаются в  <details><summary>оффтоп-тред.</summary><p>Плашкой "оффтоп" помечаются короткие отступления от основной темы топика. Не стоит злоупотреблять ей или развивать отмеченные обсуждения в текущей теме.</p></details></p> 
+            <p>9. Реклама чего-либо без прямого на то разрешения администрацией запрещена</p>
+            <p>10. Модератор всегда прав(а). Действия модератора не обсуждаются. Требования модератора обязательны к выполнению.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; えいがきょう Эйгакё, 2024 - 2026</p>
+        <p><h3><a href="@Url.Action("Соглашение")">Соглашение </a><a href="@Url.Action("Право")"> Правообладателям</a></h3>
+    </footer>
+</body>
+</html>

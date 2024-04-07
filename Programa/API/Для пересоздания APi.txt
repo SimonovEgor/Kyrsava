@@ -1,0 +1,33 @@
+Scaffold-DbContext "Data Source=DESKTOP-2LTV2JT\SQLEXPRESS;Initial Catalog=Kino;Persist Security Info=True;User ID=sa;Password=123" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "ConnectionStrings": {
+    "con": "Data Source=DESKTOP-2LTV2JT\\SQLEXPRESS;Initial Catalog=Kino;User ID=sa;Password=123"
+
+  },
+  "AllowedHosts": "*"
+}
+
+
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    },
+    "ConnectionStrings": {
+      "con": "Data Source=DESKTOP-2LTV2JT\\SQLEXPRESS;Initial Catalog=Kino;User ID=sa;Password=123"
+
+    }
+  }
+}
+
+
+builder.Services.AddDbContext<KinoAPI.Models.KinoContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("con")));

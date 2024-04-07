@@ -1,0 +1,122 @@
+@model AspNetKino.Models.User
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="../Arts/Icon.jpg">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Эйгакё</title>
+    <link rel="stylesheet" href="~/css/Регистрация.css">
+</head>
+<body>
+    <header>
+        <h1>Эйгакё</h1>
+        <h3>えいがきょう</h3>
+    </header>
+
+    <nav class="navbar">
+        <ul>
+
+            <a href="@Url.Action("Главная")">
+            <li class="button"> <span class="colored-letter">え</span>Эйгакё </li></a>
+
+            <div class="dropdown">
+                <a href="@Url.Action("Регистрация")">
+            <li class="button"><span class="colored-letter">い</span>Регистрация<span>&#9660;</span></li></a>
+            <div class="dropdown-content">
+                <h3>База данных</h3>
+                <a class="button" href="@Url.Action("Anime")"> <img width="25" height="25" src="../Arts/TV.png" alt="Аниме"> Аниме</a>
+                <h3>Сообщество</h3>
+                <a class="button" href="@Url.Action("Collection")"> <img width="25" height="25" src="../Arts/Collection.png" alt="Коллекции"> Коллекции</a>
+                <a class="button" href="@Url.Action("Пользователи")"> <img width="25" height="25" src="../Arts/Users.png" alt="Пользователи">Пользователи</a>
+                <h3>Информация</h3>
+                <a class="button" href="@Url.Action("AboutUS")"> <img width="25" height="25" src="../Arts/Info.png" alt="О сайте"> О сайте</a>
+                <a class="button" href="@Url.Action("Seti")"> <img width="25" height="25" src="../Arts/seti.png" alt="Соц сети">Соц Сети</a>
+                <a class="button" href="@Url.Action("Соглашение")"> <img width="25" height="25" src="../Arts/Agre.png" alt="Соглашение">Соглашение</a>
+                <a class="button" href="@Url.Action("Право")"> <img width="25" height="25" src="../Arts/Copy.png" alt="Правообладателям">Правообладателям</a>
+            </div>
+            </div>
+            <input class="button" type="text" placeholder=" が Search... " name="search">
+            <a href="@Url.Action("Главная")">
+            <li class="button"><span class="colored-letter">き</span>Почта </li></a>
+            <a href="@Url.Action("Авторизация")">
+            <li class="button"><span class="colored-letter">ょ</span>Войти </li></a>
+            <div class="dropdown">
+                <a href="@Url.Action("Главная")">
+            <li class="button"><span class="colored-letter">う</span>Профиль <span>&#9660;</span></li></a>
+            <div class="dropdown-content">
+                <h3>Аккаунт</h3>
+                <a class="button" href="Главная.html"> <img width="25" height="25" src="../Arts/SpiSok.png" alt="Список ваших аниме">Список аниме</a>
+                <a class="button" href="Главная.html"> <img width="25" height="25" src="../Arts/Settings.png" alt="Настройки">Настройки</a>
+                <h3>Сайт</h3>
+                <a class="button" href="@Url.Action("Rules")"> <img width="25" height="25" src="../Arts/Rule.png" alt="Правила">Правила сайта</a>
+                <a class="button" href="@Url.Action("FAQ")"> <img width="25" height="25" src="../Arts/FAQ.png" alt="Частые вопросы">FAQ</a>
+                <a class="button" href="@Url.Action("Главная")"> <img width="25" height="25" src="../Arts/Exit.png" alt="Выйти">Выход</a>
+            </div>
+            </div>
+
+        </ul>
+    </nav>
+
+    <main>
+        <section class="mainText">
+            <h2>Регистрация</h2>
+            <h3>На данной странице проходит регистрация</h3>
+            <div class="container">
+                <form method="post" action="@Url.Action("Регистрация")">
+                    <div class="form-group">
+                        <label for="users_login">Логин:</label>
+                        <input type="text" id="users_login" name="users_login" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="users_password">Пароль:</label>
+                        <input type="password" id="users_password" name="users_password" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="repeat_password">Повторите пароль:</label>
+                        <input type="password" id="repeat_password" name="repeat_password" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="users_mail">Email:</label>
+                        <input type="email" id="users_mail" name="users_mail" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="users_role">Роль:</label>
+                        <select id="users_role" name="users_role" class="form-control" required>
+                            <option value="user">client</option>
+                            <option value="admin">admin</option>
+                        </select>
+                    </div>
+                    <button type="submit" class="form-group">Зарегистрироваться</button>
+                </form>
+
+
+                @if (ViewData.ModelState.Count > 0)
+                {
+                    <p>@ViewBag.HashedPassword</p>
+
+                    <div class="alert alert-danger mt-3" role="alert">
+                        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                        {
+                            <p>@error.ErrorMessage</p>
+                        }
+                    </div>
+                }
+                <a href="@Url.Action("Авторизация")"> <h3>Уже есть аккаунт?</h3></a>
+        
+            </div>
+        </section>
+        
+    </main>
+
+    <footer>
+        <p>&copy; えいがきょう Эйгакё, 2024 - 2026</p>
+        <p><h3><a href="@Url.Action("Соглашение")">Соглашение </a><a href="@Url.Action("Право")"> Правообладателям</a></h3>
+    </footer>
+</body>
+</html>

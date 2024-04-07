@@ -1,0 +1,231 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(94,33,41);
+
+}
+
+main {
+    border: 5px solid rgb(31, 31, 31);
+
+    background: rgb(31, 31, 31);    
+    padding: 20px;
+}
+.mainText {
+    font-size:100%;
+    width: 100%;
+    word-break: break-all;
+    color:rgb(255, 255, 255);
+    font-family: 'Macondo', cursive;
+}
+
+header, main, footer {
+
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+    font-family: 'Macondo', cursive;
+}
+
+header {
+    background-image: url(../Arts/Dragon.png); 
+    background-size: cover; /* Растягивает фон на всю площадь элемента */
+    background-position: top; /* Выравнивание фона по центру */
+   
+
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 70px;
+}
+header image{
+    transform: rotate(180deg);
+    margin-top: 0px;
+}
+
+h2{
+    border-top: 8px solid rgb(94,33,41);
+    border-radius: 25%;
+
+    padding-bottom: 3%;
+    padding-top: 2%;
+    
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: 90%;
+    opacity: 65%;
+}
+
+.colored-letter {
+    font-family: 'Macondo', cursive;
+    color:rgb(255, 80, 77); /* Цвет буквы */
+    font-size: 2ch;
+    margin-right: 6px;
+    margin-left: 4px;
+    animation: blink 10s infinite;
+}
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+
+nav {
+    border-bottom: 3px solid rgb(31, 31, 31, 0.95);
+    font-family: 'Macondo', cursive;
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+   
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    
+    display: inline;
+    margin: 11px;
+    padding: 15px; 
+    border: 3px solid #ed3939;
+    border-bottom-left-radius: 60px ;
+    border-top-right-radius: 50px;
+}
+
+
+nav ul li a {
+    
+    color: #fff;
+    text-decoration: none;
+}
+.navbar {
+    
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+    margin: 0;
+}
+
+.navbar {
+     background-color: #333; 
+    color: #fff; 
+    padding: 5px 0;
+}
+/* Если уменьшить свиток
+main {
+    padding: 10px 0;
+}
+*/
+a {
+    text-decoration: none;
+    color:#ffffff;
+    }
+input{
+    font-family: 'Macondo', cursive;
+
+    padding-left: 118px;
+    padding-right: 118px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+ .dropdown {
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #333;
+    min-width: auto;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+    text-align: left;
+}
+  
+.dropdown-content a {
+    color: #fff;
+    padding: 12px 16px;
+  
+    display:block;
+}
+  
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropbtn span {
+    margin-left: 5px; 
+}
+
+.button:hover{
+    animation: glowing 2000ms infinite;
+    cursor: pointer;
+ }
+@keyframes glowing {
+0% { background-color: #333; box-shadow: 0 0 3px#ed3939;}
+50% { background-color:#ed393983; box-shadow: 0 0 10px #ed3939; }
+100% { background-color: #333333c4; box-shadow: 0 0 3px#ed3939;}
+}
+
+
+
+
+.container h2 {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+.form-group button {
+    width: 100%;
+    padding: 10px;
+    animation: glowing 12000ms infinite;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+}
+
+  
+
+
+footer {
+    background-image: url(../Arts/Dragon.png); 
+    background-size: cover; /* Растягивает фон на всю площадь элемента */
+    background-position: bottom; /* Выравнивание фона по центру */
+
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    font-family: 'Macondo', cursive;
+}

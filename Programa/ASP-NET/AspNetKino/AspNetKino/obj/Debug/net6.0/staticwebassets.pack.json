@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\Agre.png",
+      "PackagePath": "staticwebassets\\arts\\Agre.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\Collection.png",
+      "PackagePath": "staticwebassets\\arts\\Collection.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\Copy.png",
+      "PackagePath": "staticwebassets\\arts\\Copy.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\Dragon.png",
+      "PackagePath": "staticwebassets\\arts\\Dragon.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\Exit.png",
+      "PackagePath": "staticwebassets\\arts\\Exit.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\FAQ.png",
+      "PackagePath": "staticwebassets\\arts\\FAQ.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\GitHub.png",
+      "PackagePath": "staticwebassets\\arts\\GitHub.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\Icon.jpg",
+      "PackagePath": "staticwebassets\\arts\\Icon.jpg"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\IconBEZ.png",
+      "PackagePath": "staticwebassets\\arts\\IconBEZ.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\Info.png",
+      "PackagePath": "staticwebassets\\arts\\Info.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\Rule.png",
+      "PackagePath": "staticwebassets\\arts\\Rule.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\Settings.png",
+      "PackagePath": "staticwebassets\\arts\\Settings.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\SpiSok.png",
+      "PackagePath": "staticwebassets\\arts\\SpiSok.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\TV.png",
+      "PackagePath": "staticwebassets\\arts\\TV.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\Telegram.png",
+      "PackagePath": "staticwebassets\\arts\\Telegram.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\Twitter.png",
+      "PackagePath": "staticwebassets\\arts\\Twitter.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\Users.png",
+      "PackagePath": "staticwebassets\\arts\\Users.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\VK.png",
+      "PackagePath": "staticwebassets\\arts\\VK.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\YouTube.png",
+      "PackagePath": "staticwebassets\\arts\\YouTube.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\background.png",
+      "PackagePath": "staticwebassets\\arts\\background.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\discord.png",
+      "PackagePath": "staticwebassets\\arts\\discord.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\facebook.png",
+      "PackagePath": "staticwebassets\\arts\\facebook.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\facebookM.png",
+      "PackagePath": "staticwebassets\\arts\\facebookM.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\image-dragon-chinois-rouge-dragon-naga.jpg",
+      "PackagePath": "staticwebassets\\arts\\image-dragon-chinois-rouge-dragon-naga.jpg"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\arts\\seti.png",
+      "PackagePath": "staticwebassets\\arts\\seti.png"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\css\\AboutUS.css",
+      "PackagePath": "staticwebassets\\css\\AboutUS.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\css\\Anime.css",
+      "PackagePath": "staticwebassets\\css\\Anime.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\css\\Collection.css",
+      "PackagePath": "staticwebassets\\css\\Collection.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\css\\FAQ.css",
+      "PackagePath": "staticwebassets\\css\\FAQ.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\css\\Rules.css",
+      "PackagePath": "staticwebassets\\css\\Rules.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\css\\Seti.css",
+      "PackagePath": "staticwebassets\\css\\Seti.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\css\\User.css",
+      "PackagePath": "staticwebassets\\css\\User.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\css\\Авторизация.css",
+      "PackagePath": "staticwebassets\\css\\Авторизация.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\css\\Главная.css",
+      "PackagePath": "staticwebassets\\css\\Главная.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\css\\Право.css",
+      "PackagePath": "staticwebassets\\css\\Право.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\css\\Регистрация.css",
+      "PackagePath": "staticwebassets\\css\\Регистрация.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\css\\Соглашение.css",
+      "PackagePath": "staticwebassets\\css\\Соглашение.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Диплом\\Programa\\ASP-NET\\AspNetKino\\AspNetKino\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AspNetKino.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AspNetKino.props",
+      "PackagePath": "build\\AspNetKino.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AspNetKino.props",
+      "PackagePath": "buildMultiTargeting\\AspNetKino.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AspNetKino.props",
+      "PackagePath": "buildTransitive\\AspNetKino.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

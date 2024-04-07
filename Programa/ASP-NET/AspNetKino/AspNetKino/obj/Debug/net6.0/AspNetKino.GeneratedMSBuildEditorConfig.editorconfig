@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AspNetKino
+build_property.RootNamespace = AspNetKino
+build_property.ProjectDir = F:\Диплом\Programa\ASP-NET\AspNetKino\AspNetKino\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Диплом\Programa\ASP-NET\AspNetKino\AspNetKino
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Диплом/Programa/ASP-NET/AspNetKino/AspNetKino/Views/Home/AboutUS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVTLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Диплом/Programa/ASP-NET/AspNetKino/AspNetKino/Views/Home/Anime.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbmltZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Диплом/Programa/ASP-NET/AspNetKino/AspNetKino/Views/Home/Collection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb2xsZWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Диплом/Programa/ASP-NET/AspNetKino/AspNetKino/Views/Home/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Диплом/Programa/ASP-NET/AspNetKino/AspNetKino/Views/Home/Rules.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSdWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Диплом/Programa/ASP-NET/AspNetKino/AspNetKino/Views/Home/Seti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXRpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Диплом/Programa/ASP-NET/AspNetKino/AspNetKino/Views/Home/Авторизация.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVzQkNCy0YLQvtGA0LjQt9Cw0YbQuNGPLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Диплом/Programa/ASP-NET/AspNetKino/AspNetKino/Views/Home/Главная.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVzQk9C70LDQstC90LDRjy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Диплом/Programa/ASP-NET/AspNetKino/AspNetKino/Views/Home/Пользователи.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVzQn9C+0LvRjNC30L7QstCw0YLQtdC70LguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Диплом/Programa/ASP-NET/AspNetKino/AspNetKino/Views/Home/Право.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVzQn9GA0LDQstC+LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Диплом/Programa/ASP-NET/AspNetKino/AspNetKino/Views/Home/Регистрация.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVzQoNC10LPQuNGB0YLRgNCw0YbQuNGPLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Диплом/Programa/ASP-NET/AspNetKino/AspNetKino/Views/Home/Соглашение.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVzQodC+0LPQu9Cw0YjQtdC90LjQtS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
