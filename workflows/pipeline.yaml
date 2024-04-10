@@ -3,7 +3,7 @@ name: aspnet_style_checker
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
 
