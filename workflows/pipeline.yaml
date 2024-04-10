@@ -1,28 +1,26 @@
-name: ASPNET_pipeline
+name: aspnet_style_checker
 
 on:
   push:
     branches:
-      - main
-
+      - master
 
 jobs:
-  checkstyle_project:
-#    needs: name_jobs
+
+  style_checker:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Setup .NET Core
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup .NET SDK
         uses: actions/setup-dotnet@v1
         with:
-          dotnet-version: '6.0.x'
+          dotnet-version: '8.0.100'
 
-      - name: Install dependencies
-        run: |
-          dotnet restore
+      - name: Install StyleCopAnalyzers
+        run: dotnet add package StyleCop.Analyzers --version 1.2.0
 
-      - name: Check style project
-#        continue-on-error: true
-        run: |
-          dotnet tool install --global dotnet-format
-          dotnet format --check --dry-run true
+      - name: Check C# code style
+        run: dotnet build /p:TreatWarningsAsErrors=true
