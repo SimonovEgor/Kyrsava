@@ -1,0 +1,28 @@
+name: ASPNET_pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+
+jobs:
+  checkstyle_project:
+#    needs: name_jobs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup .NET Core
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '6.0.x'
+
+      - name: Install dependencies
+        run: |
+          dotnet restore
+
+      - name: Check style project
+#        continue-on-error: true
+        run: |
+          dotnet tool install --global dotnet-format
+          dotnet format --check --dry-run true
